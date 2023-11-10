@@ -6,7 +6,7 @@
 
 - 💞️ I believe in the power of collaboration to unlock innovation in Machine learning and AI. I am actively seeking opportunities to contribute to projects that not only forecast trends but also offer actionable business insights.
 
-- 🛠️ Eager to dive into diverse technologies, I am honing my skills in **Workflow management with LUIGI**, **Data processing with Apache Spark**, and tackling **Big Data challenges with Parquet files**.
+- 🛠️ Eager to dive into diverse technologies, I am honing my skills in **Unsupervised Machine Learning**, **Data processing with Apache Spark**, and tackling **Big Data challenges with Azure Synapse Analytics**.
 
 - 🎯 Through hands-on projects, my objective is to deepen my practical knowledge and enhance my contributions to pioneering, data-driven solutions on GitHub.
 
