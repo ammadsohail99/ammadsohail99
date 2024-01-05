@@ -61,7 +61,7 @@
 
 - 📫 Let's connect and create something amazing together:
   - LinkedIn: [Syed Ammad Sohail](https://www.linkedin.com/in/syedammadsohail/)
-  - Email: [ammadsohail2017@gmail.com](mailto:ammadsohail2017@gmail.com)
+  - Email: [syed.sohail@mail.mcgill.ca](mailto:syed.sohail@mail.mcgill.ca)
 
 
 
