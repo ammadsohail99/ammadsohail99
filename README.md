@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ammadsohail99&style=for-the-badge)
+
 ### Hello World! 👋 I'm Syed Ammad Sohail (@ammadsohail99)
 
 - 👀 With a deep-seated passion for **Machine Learning** and **Generative AI**, I specialize in **regression** and **classification** techniques. My enthusiasm also embraces **Data Analytics** and **Business Intelligence**, domains in which I excel at converting data into strategic insights.
